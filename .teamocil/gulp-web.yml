@@ -1,0 +1,7 @@
+windows:
+  - name: gulp-web
+    root: ~/Code/
+    layout: main-vertical
+    panes:
+      - gulp
+      - ls -la
